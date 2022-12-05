@@ -1,0 +1,8 @@
+# Customized
+indent_type = "Spaces"
+column_width = 79
+# Default
+line_endings = "Unix"
+indent_width = 4
+quote_style = "AutoPreferDouble"
+no_call_parentheses = false
